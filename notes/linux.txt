@@ -1,0 +1,10 @@
+##This note contain linux note.
+
+Git Notes
+  . git config --global user.name  "LazyCoderJ"
+  . git config --global user.email "shibintv@hotmail.com"
+  . git init : initialize the git with empty repo
+  . git clone <repo> : to add repo
+  . git add * : add all the file to local repo
+  . git commit -m <message> : git stage for commit.
+  . git push origin master : git push 
